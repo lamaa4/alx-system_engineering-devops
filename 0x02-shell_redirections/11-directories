@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 ls -lR | grep ^d | wc -l
-=======
-#!/bin/bash
-ls -lR | grep ^d | wc -l
->>>>>>> 66b9797a4bc3394700bf93518cadeb0a37828c32
