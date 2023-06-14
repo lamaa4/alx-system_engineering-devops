@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 ls -lt |grep ^- |head
+=======
+#!/bin/bash
+ls -lR | grep ^d | wc -l
+>>>>>>> b75e0229367f338c7266ffe1240481a43341ff69
